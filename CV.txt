@@ -1,0 +1,68 @@
+Daniel Cox                      Current Address:
+http://danielpcox.org           3100 Saint Paul St. #213
+danielpcox@gmail.com            Baltimore, MD 21218
+412.532.6269 
+
+Objective
+ A position in applied computer science research with a company seeking
+ a record of superior innovation and accuracy in analysis, as well as
+ leadership in its field, and a lasting, positive impact on society.
+
+Education
+ Cornell University, Bachelors of Science Computer Science
+ 08/2007 - 05/2011
+ Cumulative GPA: 3.27
+
+Relevant Coursework
+ Analysis of Algorithms, Operating Systems, Introduction to Analysis of
+ Algorithms, Systems Programming, Introduction to Natural Language
+ Processing, Introduction to Cognitive Science, Foundations of
+ Artificial Intelligence, Practicum in AI, Introduction to Database
+ Systems, Networks, Discrete Structures, Data Structures and Functional
+ Programming, Introduction to Digital Logic Design, Object-Oriented
+ Programming and Data Structures, Introduction to Computer Game Design,
+ Information Systems and Analysis, Computational Methods for Management
+ and Economics, Prove It (mathematical proof course).
+
+Technologies
+ Linux server administration and related technologies, Test-Driven
+ Development, Continuous Integration, C, C#, Java, Ruby (and Rails),
+ Python, Perl, R, MATLAB, OCaml, PHP, XHTML, CSS, Javascript, jQuery,
+ Git, Subversion, MySQL and LaTeX.
+
+Experience
+• Web Application Programming Intern, Desiring God, Minneapolis, MN
+  Summer 2008/2009/2010
+    - Collaborated with wide range of skill sets to port entire company
+      website to Ruby on Rails, now live at desiringgod.org.
+    - Contributed to the database architecture and site planning, and
+      developed significant portions of the (Ruby on Rails)
+      back-end of the site.
+• Emergency Medical Technician, BI Ambulance Association, Bainbridge Island, WA
+  06-08/2007
+    - Formerly Certified Washington State EMT-B
+    - Worked for private ambulance company BIAA caring for and
+    transporting patients in emergency situations.
+    - Work required well-developed interpersonal, diagnostics and
+    treatment skills in dealing with all personality types in
+    distress.
+• Server Devel. and Reports Programming Intern, eAcceleration Corp., Poulsbo, WA
+  07/2004-10/2006
+    - Wrote dashboards and developed reports scripts for company
+      databases and migrated old reports scripts to current
+      technologies.
+      - Evaluated new technologies (such as Ruby on Rails) for potential
+      future migration, reported findings to management.
+• Web Application Programmer, What’s For Dinner LLC, Poulsbo, WA
+  06-09/2006
+    - Contracted alone for four months to design and build the ecommerce
+      website of a startup meal-preparation business.
+    - Worked closely with the owner at every stage of the process,
+      including maintenance for some time after.
+
+Extra Curricular
+• Active member and organizer of Cornell’s chapter of Campus Crusade for
+  Christ before graduation. Built cornellcru.com, trained a group of
+  underclassmen to replace me, mentored several younger students.
+• Swing dance with Rooftop Mayhem and CU Swing, performed and tutored at
+  events.
