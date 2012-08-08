@@ -27,7 +27,7 @@ Relevant Coursework
 Technologies and Methodologies
  Linux server administration and related technologies, Test-Driven
  Development, Continuous Integration, Java, Ruby (and Rails), C, C#,
- Python, Perl, R, MATLAB, OCaml, PHP, XHTML, CSS, Javascript, jQuery,
+ Python, Perl, R, MATLAB, OCaml, PHP, XHTML, CSS, XSLT, Javascript, jQuery,
  Git, Subversion, Hadoop, MongoDB, MySQL, Maven and LaTeX.
 
 Experience
