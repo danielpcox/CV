@@ -1,0 +1,691 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+
+\setlength{\tabcolsep}{0in}
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package none
+\inputencoding auto
+\fontencoding default
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 10
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 0
+\use_mathdots 0
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+\series bold
+\size largest
+Daniel Cox
+\series default
+ 
+\end_layout
+
+\begin_layout Right Address
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="3">
+<features tabularvalignment="middle" tabularwidth="7.5in">
+<column alignment="left" valignment="top" width="0">
+<column alignment="none" valignment="top" width="0" special="@{\extracolsep{0.05in}}l">
+<column alignment="none" valignment="top" width="0" special="@{\extracolsep{1in}}l">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+http://danielpcox.org 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Current Address: 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+danielpcox@gmail.com 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3100 Saint Paul St.
+ #213 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+412.532.6269 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Baltimore, MD 21218
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+Objective
+\end_layout
+
+\begin_layout Standard
+\align left
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addtolength{
+\backslash
+leftskip}{.3in}
+\end_layout
+
+\end_inset
+
+ A position in applied computer science with a company seeking leadership
+ in its field, demonstrably superior innovation, accuracy in analysis, and
+ a lasting, positive impact on society.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+Education
+\end_layout
+
+\begin_layout Standard
+\align left
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+addtolength{
+\backslash
+leftskip}{.3in}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="2">
+<features tabularvalignment="middle" tabularwidth="7.5in">
+<column alignment="left" valignment="top" width="0">
+<column alignment="none" valignment="top" width="0" special="@{\extracolsep{\fill}}r">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Cornell University
+\series default
+, Bachelor of Science Computer Science 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+08/2007 - 05/2011 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Cumulative GPA: 3.27 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+Relevant Coursework
+\end_layout
+
+\begin_layout Standard
+\align left
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+addtolength{
+\backslash
+leftskip}{.3in}
+\end_layout
+
+\end_inset
+
+ Analysis of Algorithms, Operating Systems, Introduction to Analysis of
+ Algorithms, Systems Programming, Introduction to Natural Language Processing,
+ Introduction to Cognitive Science, Foundations of Artificial Intelligence,
+ Practicum in AI, Introduction to Database Systems, Networks, Discrete Structure
+s, Data Structures and Functional Programming, Introduction to Digital Logic
+ Design, Object-Oriented Programming and Data Structures, Introduction to
+ Computer Game Design, Information Systems and Analysis, Computational Methods
+ for Management and Economics, Prove It (mathematical proof course).
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+Languages, Technologies and Methodologies
+\end_layout
+
+\begin_layout Standard
+\align left
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+addtolength{
+\backslash
+leftskip}{.3in}
+\end_layout
+
+\end_inset
+
+ Java, Ruby (and Rails 2 and 3), Scala, R, XHTML, CSS, Javascript, jQuery,
+ XSLT, C#, C++, C, Python, MATLAB, Perl, OCaml, PHP, and LaTeX.
+ Git, Subversion, Maven, Hadoop ecosystem, Storm, MongoDB, Neo4J, and MySQL.
+ Linux server administration and related technologies, Test-Driven Development,
+ Continuous Integration, Tinkerpop stack, and Agile methodologies.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+Experience
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="2">
+<features tabularvalignment="middle" tabularwidth="7.5in">
+<column alignment="left" valignment="top" width="0">
+<column alignment="none" valignment="top" width="0" special="@{\extracolsep{\fill}}r">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Software Engineer
+\series default
+, Six3 Systems Intelligence Solutions, Sterling, VA 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+02/2012-present
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Built prototype and production enterprise-scale software for government
+ customers
+\end_layout
+
+\begin_layout Itemize
+Worked with both proven and upcoming web-scale technologies and Agile methodolog
+ies such as Hadoop, MongoDB, Ruby on Rails, distributed computing, test-driven
+ development, RESTful services and Scrum
+\end_layout
+
+\begin_layout Itemize
+Gave frequent consultations and expositions on above technologies to improve
+ group performance
+\end_layout
+
+\begin_layout Itemize
+Occasionally worked on an emergency timetable to deliver quality software
+ quickly after unexpected contingencies reduced manpower and added time-pressure
+ to project requirements
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="2">
+<features tabularvalignment="middle" tabularwidth="7.5in">
+<column alignment="left" valignment="top" width="0">
+<column alignment="none" valignment="top" width="0" special="@{\extracolsep{\fill}}r">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Web Application Programming Intern
+\series default
+, Desiring God, Minneapolis, MN 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Summer 2008/2009/2010
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Collaborated with wide range of skill sets to port entire company website
+ to Ruby on Rails, now live at desiringgod.org.
+ 
+\end_layout
+
+\begin_layout Itemize
+Contributed to the database architecture and site planning, and developed
+ significant portions of the (Ruby on Rails) back-end of the site.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="2">
+<features tabularvalignment="middle" tabularwidth="7.5in">
+<column alignment="left" valignment="top" width="0">
+<column alignment="none" valignment="top" width="0" special="@{\extracolsep{\fill}}r">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Emergency Medical Technician
+\series default
+, BI Ambulance Association, Bainbridge Island, WA 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+06-08/2007
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Formerly Certified Washington State EMT-B 
+\end_layout
+
+\begin_layout Itemize
+Worked for private ambulance company BIAA caring for and transporting patients
+ in emergency situations.
+ 
+\end_layout
+
+\begin_layout Itemize
+Work required well-developed interpersonal, diagnostics and treatment skills
+ in dealing with all personality types in distress.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="2">
+<features tabularvalignment="middle" tabularwidth="7.5in">
+<column alignment="left" valignment="top" width="0">
+<column alignment="none" valignment="top" width="0" special="@{\extracolsep{\fill}}r">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Server Devel.
+ and Reports Programming Intern
+\series default
+, eAcceleration Corp., Poulsbo, WA 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+07/2004-10/2006
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Wrote dashboards and developed reports scripts for company databases and
+ migrated old reports scripts to current technologies.
+ 
+\end_layout
+
+\begin_layout Itemize
+Evaluated new technologies (such as Ruby on Rails) for potential future
+ migration, reported findings to management.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="2">
+<features tabularvalignment="middle" tabularwidth="7.5in">
+<column alignment="left" valignment="top" width="0">
+<column alignment="none" valignment="top" width="0" special="@{\extracolsep{\fill}}r">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Web Application Programmer
+\series default
+, What's For Dinner LLC, Poulsbo, WA 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+06-09/2006
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Contracted alone for four months to design and build the ecommerce website
+ of a startup meal-preparation business.
+ 
+\end_layout
+
+\begin_layout Itemize
+Worked closely with the owner at every stage of the process, including maintenan
+ce for some time after.
+ 
+\end_layout
+
+\end_deeper
+\end_body
+\end_document
