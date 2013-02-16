@@ -39,8 +39,8 @@ Experience
     - Worked with both proven and upcoming web-scale technologies and
       Agile methodologies such as Hadoop, MongoDB, Ruby on Rails, distributed
       computing, test-driven development, RESTful services and Scrum
-    - Gave frequent consultations on above technologies to improve group
-      performance
+    - Gave frequent consultations and expositions on above technologies to
+      improve group performance
     - Occasionally worked on an emergency timetable to deliver quality software
       quickly after unexpected contingencies reduced manpower and added time-
       pressure to project requirements
