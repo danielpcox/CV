@@ -1,12 +1,13 @@
 Daniel Cox                      Current Address:
-http://danielpcox.org           3100 Saint Paul St. #213
-danielpcox@gmail.com            Baltimore, MD 21218
-412.532.6269 
+danielpcox@gmail.com            3100 Saint Paul St. #213
+412.532.6269                    Baltimore, MD 21218
+ 
 
 Objective
- A position in applied web technology with a company seeking leadership in its
- field, demonstrably superior innovation, accuracy in analysis, and a lasting,
- positive impact on society.
+ My objective is to apply my skills and interests where the quality of my work
+ truly matters; where error may cost lives, and excellence may save them. From
+ such a position, I intend to exert myself and build elegant software that
+ meets real needs.
 
 Education
  Cornell University, Bachelors of Science Computer Science
