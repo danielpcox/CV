@@ -29,7 +29,8 @@ Relevant Coursework
 Languages, Technologies and Methodologies
  Java, Ruby (and Rails 2 and 3), Scala, R, C++, C, C#, HTML, XML, XSLT, CSS,
  Javascript, jQuery, Python, MATLAB, Perl, OCaml, PHP, and LaTeX.
- Git, Subversion, Maven, Hadoop ecosystem, Storm, MongoDB, Neo4J, and MySQL.
+ Git, Subversion, Maven, Hadoop ecosystem (Hadoop, Oozie, HDFS, Zookeeper, HBase
+ and Accumulo), Storm, MongoDB, Neo4J, and MySQL.
  Linux server administration and related technologies, Test-Driven
  Development, Continuous Integration, Tinkerpop stack, and Agile methodology
 
