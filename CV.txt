@@ -35,7 +35,7 @@ Languages, Technologies and Methodologies
  Development, Continuous Integration, Tinkerpop stack, and Agile methodology
 
 Experience
-* Software Engineer, Six3 Systems Intelligence Solutions, Sterling, VA
+* Lead Software Engineer, Six3 Systems Intelligence Solutions, Sterling, VA
   02/2012-present
     - Built prototype and production enterprise-scale software for government
       customers
