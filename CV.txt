@@ -1,7 +1,7 @@
 Daniel Cox                      
 danielpcox.info                 Current Address:
 danielpcox@gmail.com            108 W 39th St. APT 4
-412.532.6269                    Baltimore, MD 21210
+443.800.1220                    Baltimore, MD 21210
  
 
 Objective
@@ -35,7 +35,7 @@ Languages, Technologies and Methodologies
  Development, Continuous Integration, Tinkerpop stack, and Agile methodology
 
 Experience
-* Lead Software Engineer, Six3 Systems Intelligence Solutions, Sterling, VA
+* Lead Software Engineer, CACI Int'l (acquired Six3 Systems Nov 2013), Sterling, VA
   02/2012-present
     - Built prototype and production enterprise-scale software for government
       customers
