@@ -1,5 +1,5 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass article
@@ -17,13 +17,13 @@
 \font_roman default
 \font_sans default
 \font_typewriter default
+\font_math auto
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
-
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -34,15 +34,24 @@
 \use_hyperref false
 \papersize default
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 0
-\use_mathdots 0
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 0
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date false
+\justification true
 \use_refstyle 0
 \index Index
 \shortcut idx
@@ -82,10 +91,10 @@ Daniel Cox
 \begin_layout Right Address
 \begin_inset Tabular
 <lyxtabular version="3" rows="5" columns="3">
-<features tabularvalignment="middle" tabularwidth="7.5in">
-<column alignment="left" valignment="top" width="0">
-<column alignment="none" valignment="top" width="0" special="@{\extracolsep{0.05in}}l">
-<column alignment="none" valignment="top" width="0" special="@{\extracolsep{1in}}l">
+<features rotate="0" tabularvalignment="middle" tabularwidth="7.5in">
+<column alignment="left" valignment="top">
+<column alignment="none" valignment="top" special="@{\extracolsep{0.05in}}l">
+<column alignment="none" valignment="top" special="@{\extracolsep{1in}}l">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
@@ -296,8 +305,8 @@ leftskip}{.3in}
  
 \begin_inset Tabular
 <lyxtabular version="3" rows="2" columns="2">
-<features tabularvalignment="middle" tabularwidth="18.7cm">
-<column alignment="left" valignment="top" width="0">
+<features rotate="0" tabularvalignment="middle" tabularwidth="18.7cm">
+<column alignment="left" valignment="top">
 <column alignment="left" valignment="top" width="0pt" special="@{\extracolsep{\fill}}r">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
@@ -410,9 +419,8 @@ leftskip}{.3in}
  Clojure, Scala, Java, Ruby (and Rails 2 and 3), R, C++, C, C#, HTML, XML,
  XSLT, CSS, Javascript, jQuery, Python, MATLAB, Perl, OCaml, PHP, and LaTeX.
  Git, Subversion, Maven, Hadoop ecosystem (Hadoop, Oozie, HDFS, Zookeeper,
- HBase and Accumulo), Storm, MongoDB, Neo4J, and MySQL.
- Linux server administration and related technologies, Test-Driven Development,
- Continuous Integration, Tinkerpop stack, and Agile methodology
+ HBase and Accumulo), Spark, Storm, MongoDB, Neo4J, and MySQL.
+ Linux server administration and related technologies, TDD, CI, and Agile.
 \end_layout
 
 \begin_layout Standard
@@ -425,8 +433,8 @@ Experience
 \begin_layout Itemize
 \begin_inset Tabular
 <lyxtabular version="3" rows="1" columns="2">
-<features tabularvalignment="middle" tabularwidth="18.7cm">
-<column alignment="left" valignment="top" width="0">
+<features rotate="0" tabularvalignment="middle" tabularwidth="18.7cm">
+<column alignment="left" valignment="top">
 <column alignment="left" valignment="top" width="0pt" special="@{\extracolsep{\fill}}r">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
@@ -435,7 +443,60 @@ Experience
 \begin_layout Plain Layout
 
 \series bold
-Software Engineer
+VP, Chief Technology Officer
+\series default
+, Decipher Technology Studios, Alexandria, VA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+05/2015-present
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Providing technological direction to Decipher to meet customer needs and
+ achieve business objectives.
+\end_layout
+
+\begin_layout Itemize
+Designing and building resilient, distributed systems for enterprise and
+ government customers.
+\end_layout
+
+\begin_layout Itemize
+Selecting, training, empowering and unleashing the Decipher workforce.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="2">
+<features rotate="0" tabularvalignment="middle" tabularwidth="18.7cm">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top" width="0pt" special="@{\extracolsep{\fill}}r">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Lead Software Engineer
 \series default
 , CACI International Inc.
  (acquired Six3 Systems Nov 2013), Sterling, VA 
@@ -447,7 +508,7 @@ Software Engineer
 \begin_inset Text
 
 \begin_layout Plain Layout
-02/2012-present
+02/2012-06/2015
 \end_layout
 
 \end_inset
@@ -463,32 +524,32 @@ Software Engineer
 \begin_deeper
 \begin_layout Itemize
 Built production and prototype enterprise-scale software for government
- customers
+ customers.
 \end_layout
 
 \begin_layout Itemize
 Worked with both proven and upcoming web-scale technologies and Agile methodolog
 ies such as Hadoop, MongoDB, Ruby on Rails, distributed computing, test-driven
- development, RESTful services and Scrum
+ development, RESTful services and Scrum.
 \end_layout
 
 \begin_layout Itemize
 Gave frequent consultations and expositions on above technologies to improve
- group performance
+ group performance.
 \end_layout
 
 \begin_layout Itemize
 Occasionally worked on an emergency timetable to deliver quality software
  quickly after unexpected contingencies reduced manpower and added time-pressure
- to project requirements
+ to project requirements.
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
 \begin_inset Tabular
 <lyxtabular version="3" rows="1" columns="2">
-<features tabularvalignment="middle" tabularwidth="18.7cm">
-<column alignment="left" valignment="top" width="0">
+<features rotate="0" tabularvalignment="middle" tabularwidth="18.7cm">
+<column alignment="left" valignment="top">
 <column alignment="left" valignment="top" width="0pt" special="@{\extracolsep{\fill}}r">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
@@ -523,9 +584,8 @@ Summer 2008/2009/2010
 
 \begin_deeper
 \begin_layout Itemize
-Collaborated with wide range of skill sets to port entire company website
- to Ruby on Rails, now live at desiringgod.org.
- 
+Collaborated with a wide range of skill sets to build social applications
+ for a broad customer base.
 \end_layout
 
 \begin_layout Itemize
@@ -538,8 +598,8 @@ Contributed to the database architecture and site planning, and developed
 \begin_layout Itemize
 \begin_inset Tabular
 <lyxtabular version="3" rows="1" columns="2">
-<features tabularvalignment="middle" tabularwidth="18.7cm">
-<column alignment="left" valignment="top" width="0">
+<features rotate="0" tabularvalignment="middle" tabularwidth="18.7cm">
+<column alignment="left" valignment="top">
 <column alignment="left" valignment="top" width="0pt" special="@{\extracolsep{\fill}}r">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
@@ -593,8 +653,8 @@ Work required well-developed interpersonal, diagnostics and treatment skills
 \begin_layout Itemize
 \begin_inset Tabular
 <lyxtabular version="3" rows="1" columns="2">
-<features tabularvalignment="middle" tabularwidth="18.7cm">
-<column alignment="left" valignment="top" width="0">
+<features rotate="0" tabularvalignment="middle" tabularwidth="18.7cm">
+<column alignment="left" valignment="top">
 <column alignment="left" valignment="top" width="0pt" special="@{\extracolsep{\fill}}r">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
@@ -645,8 +705,8 @@ Evaluated new technologies (such as Ruby on Rails) for potential future
 \begin_layout Itemize
 \begin_inset Tabular
 <lyxtabular version="3" rows="1" columns="2">
-<features tabularvalignment="middle" tabularwidth="18.7cm">
-<column alignment="left" valignment="top" width="0">
+<features rotate="0" tabularvalignment="middle" tabularwidth="18.7cm">
+<column alignment="left" valignment="top">
 <column alignment="left" valignment="top" width="0pt" special="@{\extracolsep{\fill}}r">
 <row>
 <cell alignment="left" valignment="top" usebox="none">

@@ -30,13 +30,20 @@ Languages, Technologies and Methodologies
  Clojure, Scala, Java, Ruby (and Rails 2 and 3), R, C++, C, C#, HTML, XML,
  XSLT, CSS, Javascript, jQuery, Python, MATLAB, Perl, OCaml, PHP, and LaTeX.
  Git, Subversion, Maven, Hadoop ecosystem (Hadoop, Oozie, HDFS, Zookeeper,
- HBaseand Accumulo), Storm, MongoDB, Neo4J, and MySQL.
+ HBaseand Accumulo), Spark, Storm, MongoDB, Neo4J, and MySQL.
  Linux server administration and related technologies, Test-Driven
- Development, Continuous Integration, Tinkerpop stack, and Agile methodology
+ Development, TDD, CI, and Agile.
 
 Experience
+* VP, Chief Technology Officer, Decipher Technology Studios, Alexandria, VA
+  05/2015-present
+    - Providing technological direction to Decipher to meet customer needs and
+      achieve business objectives.
+    - Designing and building resilient, distributed systems for enterprise and
+      government customers.
+    - Selecting, training, empowering and unleashing the Decipher workforce.
 * Lead Software Engineer, CACI Int'l (acquired Six3 Systems Nov 2013), Sterling, VA
-  02/2012-present
+  02/2012-06/2015
     - Built prototype and production enterprise-scale software for government
       customers
     - Worked with both proven and upcoming web-scale technologies and
