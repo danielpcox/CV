@@ -416,11 +416,14 @@ leftskip}{.3in}
 
 \end_inset
 
- Clojure, Scala, Java, Ruby (and Rails 2 and 3), R, C++, C, C#, HTML, XML,
- XSLT, CSS, Javascript, jQuery, Python, MATLAB, Perl, OCaml, PHP, and LaTeX.
+ Clojure, Scala, Java, Go, Ruby (and Rails 2 and 3), R, C++, C, C#, HTML,
+ XML, XSLT, CSS, Javascript, jQuery, Python, MATLAB, Perl, OCaml, PHP, and
+ LaTeX.
  Git, Subversion, Maven, Hadoop ecosystem (Hadoop, Oozie, HDFS, Zookeeper,
  HBase and Accumulo), Spark, Storm, MongoDB, Neo4J, and MySQL.
- Linux server administration and related technologies, TDD, CI, and Agile.
+ Microservice architectural styles, reliable distributed computing and resilienc
+e engineering, REST, JSON-LD and linked data, Linux server administration
+ and related technologies, CI, and Agile.
 \end_layout
 
 \begin_layout Standard

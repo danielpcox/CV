@@ -1,8 +1,8 @@
-Daniel Cox                      
+Daniel Cox
 danielpcox.info                 Current Address:
 danielpcox@protonmail.com       108 W 39th St. APT 4
 443.800.1220                    Baltimore, MD 21210
- 
+
 
 Objective
  My objective is to apply my skills and interests where the quality of my work
@@ -27,12 +27,19 @@ Relevant Coursework
  and Economics, Prove It (mathematical proof course).
 
 Languages, Technologies and Methodologies
- Clojure, Scala, Java, Ruby (and Rails 2 and 3), R, C++, C, C#, HTML, XML,
+ Clojure, Scala, Java, Go, Ruby (and Rails 2 and 3), R, C++, C, C#, HTML, XML,
  XSLT, CSS, Javascript, jQuery, Python, MATLAB, Perl, OCaml, PHP, and LaTeX.
  Git, Subversion, Maven, Hadoop ecosystem (Hadoop, Oozie, HDFS, Zookeeper,
  HBaseand Accumulo), Spark, Storm, MongoDB, Neo4J, and MySQL.
  Linux server administration and related technologies, Test-Driven
  Development, TDD, CI, and Agile.
+ Clojure, Scala, Java, Go, Ruby (and Rails 2 and 3), R, C++, C, C#, HTML, XML,
+ XSLT, CSS, Javascript, jQuery, Python, MATLAB, Perl, OCaml, PHP, and LaTeX.
+ Git, Subversion, Maven, Hadoop ecosystem (Hadoop, Oozie, HDFS, Zookeeper, HBase
+ and Accumulo), Spark, Storm, MongoDB, Neo4J, and MySQL.
+ Microservice architectural styles, reliable distributed computing and
+ resilience engineering, REST, JSON-LD and linked data, Linux server
+ administration and related technologies, CI, and Agile.
 
 Experience
 * VP, Chief Technology Officer, Decipher Technology Studios, Alexandria, VA
