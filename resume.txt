@@ -1,7 +1,7 @@
 Daniel Cox
 danielpcox.info                 Current Address:
-danielpcox@protonmail.com       108 W 39th St. APT 4
-443.800.1220                    Baltimore, MD 21210
+danielpcox@gmail.com            5339 85th Ave. APT 202
+240-330-2111                    New Carrollton, MD 20784
 
 
 Objective
@@ -27,24 +27,28 @@ Relevant Coursework
  and Economics, Prove It (mathematical proof course).
 
 Languages, Technologies and Methodologies
- Clojure, Scala, Java, Go, Ruby (and Rails 2 and 3), R, C++, C, C#, HTML, XML,
- XSLT, CSS, Javascript, jQuery, Python, MATLAB, Perl, OCaml, PHP, and LaTeX.
- Docker, Git, Subversion, Maven, Hadoop ecosystem (Hadoop, Oozie, HDFS, Zookeeper,
- HBase and Accumulo), Spark, Storm, MongoDB, Neo4J, and MySQL.
- Microservice architectural styles, reliable distributed computing and
- resilience engineering, REST, JSON-LD and linked data, Linux server
- administration and related technologies, CI, and Agile.
+ Wolfram Language & Mathematica, Go, Clojure, JavaScript, Scala, Java, Python,
+ Ruby, R, MATLAB, C++, C, C#, HTML, XML, XSLT, CSS, Perl, OCaml, PHP, and LaTeX.
+ React & Redux, Rails, Docker, Git, Subversion, ElasticSearch, Maven,
+ Hadoop ecosystem, Spark, Storm, MongoDB, Neo4J, and MySQL.
+ Microservice architectural styles, reliable distributed computing and resilience
+ engineering, REST, JSON-LD and linked data, Linux server administration and
+ related technologies, Continuous Integration/Continuous Deployment, and Agile.
 
 Experience
-* VP, Chief Technology Officer, Decipher Technology Studios, Alexandria, VA
-  05/2015-present
-    - Providing technological direction to Decipher to meet customer needs and
-      achieve business objectives.
-    - Designing and building resilient, distributed systems for enterprise and
-      government customers.
-    - Selecting, training, empowering and unleashing the Decipher workforce.
-* Lead Software Engineer, CACI Int'l (acquired Six3 Systems Nov 2013), Sterling, VA
-  02/2012-06/2015
+* Decipher Technology Studios, Alexandria, VA
+  01/2017 - present Director of Applied Sciences 
+  05/2015 - 01/2017 Chief Technology Officer
+    - Designed and built resilient applications and distributed systems for
+      enterprise and government customers in the microservice architectural style.
+    - Provided technological oversight, direction, and counsel to Decipher
+      from the leading edge of CS research to meet customer needs and achieve
+      business objectives.
+    - Cultivated unique and self-propagating company culture through personal
+      investment, one-on-one mentoring, and events.
+    - Selected, trained, empowered, and unleashed new members of Decipher.
+* CACI Int'l (acquired Six3 Systems Nov 2013), Sterling, VA
+  02/2012 - 06/2015 Lead Software Engineer
     - Built prototype and production enterprise-scale software for government
       customers
     - Worked with both proven and upcoming web-scale technologies and
@@ -55,30 +59,30 @@ Experience
     - Occasionally worked on an emergency timetable to deliver quality software
       quickly after unexpected contingencies reduced manpower and added time-
       pressure to project requirements
-* Web Application Programming Intern, Desiring God, Minneapolis, MN
-  Summer 2008/2009/2010
+* Desiring God, Minneapolis, MN
+  Web Application Programming Intern Summer 2008/2009/2010
     - Collaborated with wide range of skill sets to port entire company
       website to Ruby on Rails, now live at desiringgod.org.
     - Contributed to the database architecture and site planning, and
       developed significant portions of the (Ruby on Rails)
       back-end of the site.
-* Emergency Medical Technician, BI Ambulance Association, Bainbridge Island, WA
-  06-08/2007
+* BI Ambulance Association, Bainbridge Island, WA
+  06 - 08/2007 Emergency Medical Technician, 
     - Formerly Certified Washington State EMT-B
     - Worked for private ambulance company BIAA caring for and
       transporting patients in emergency situations.
     - Work required well-developed interpersonal, diagnostics and
       treatment skills in dealing with all personality types in
       distress.
-* Server Devel. and Reports Programming Intern, eAcceleration Corp., Poulsbo, WA
-  07/2004-10/2006
+* eAcceleration Corp., Poulsbo, WA
+  07/2004 - 10/2006 Server Devel. and Reports Programming Intern, 
     - Wrote dashboards and developed reports scripts for company
       databases and migrated old reports scripts to current
       technologies.
       - Evaluated new technologies (such as Ruby on Rails) for potential
       future migration, reported findings to management.
-* Web Application Programmer, What’s For Dinner LLC, Poulsbo, WA
-  06-09/2006
+* What’s For Dinner LLC, Poulsbo, WA
+  06-09/2006 Web Application Programmer,
     - Contracted alone for four months to design and build the ecommerce
       website of a startup meal-preparation business.
     - Worked closely with the owner at every stage of the process,
