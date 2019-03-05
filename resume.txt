@@ -27,13 +27,14 @@ Relevant Coursework
  and Economics, Prove It (mathematical proof course).
 
 Languages, Technologies and Methodologies
- Wolfram Language & Mathematica, Go, Clojure, JavaScript, Scala, Java, Python,
+ Python, Wolfram Language & Mathematica, Go, Clojure, JavaScript, Scala, Java,
  Ruby, R, MATLAB, C++, C, C#, HTML, XML, XSLT, CSS, Perl, OCaml, PHP, and LaTeX.
- React & Redux, Rails, Docker, Git, Subversion, ElasticSearch, Maven,
- Hadoop ecosystem, Spark, Storm, MongoDB, Neo4J, and MySQL.
- Microservice architectural styles, reliable distributed computing and resilience
- engineering, REST, JSON-LD and linked data, Linux server administration and
- related technologies, Continuous Integration/Continuous Deployment, and Agile.
+ PyTorch, NumPy, React & Redux, Rails, Docker, Git, Subversion, ElasticSearch,
+ Maven, Hadoop ecosystem, Spark, Storm, MongoDB, Neo4J, and MySQL.
+ Deep learning esp. deep reinforcement learning, microservice architectural styles,
+ reliable distributed computing and resilience engineering, REST, JSON-LD and
+ linked data, Linux server administration and related technologies,
+ Continuous Integration/Continuous Deployment, and Agile.
 
 Experience
 * Decipher Technology Studios, Alexandria, VA
