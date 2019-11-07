@@ -6,7 +6,7 @@ danielpcox@gmail.com
 
 
 Summary
- I am a mathematically- and scientificially-inclined polymath, expert in
+ I am a mathematically- and scientifically-inclined polymath, expert in
  distributed systems, and people-person, successful at applying cutting edge
  research to practical objectives in artificial intelligence, intelligence
  augmentation, data- and computation-intensive software architecture, and human
