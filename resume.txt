@@ -1,14 +1,16 @@
 Daniel Cox
 danielpcox.info
+computable.ai
 danielpcox@gmail.com
 240-330-2111
 
 
-Objective
- My objective is to apply my skills and interests where the quality of my work
- truly matters; where error may cost lives or property, and excellence may save
- them. From such a position, I intend to exert myself and build elegant
- software that meets real needs.
+Summary
+ I am a mathematically- and scientificially-inclined polymath, expert in
+ distributed systems, and people-person, successful at applying cutting edge
+ research to practical objectives in artificial intelligence, intelligence
+ augmentation, data- and computation-intensive software architecture, and human
+ systems.
 
 Education
  Cornell University, Bachelors of Science Computer Science
@@ -27,27 +29,33 @@ Relevant Coursework
  and Economics, Prove It (mathematical proof course).
 
 Languages, Technologies and Methodologies
- Python, Wolfram Language & Mathematica, Go, Clojure, JavaScript, Scala, Java,
- Ruby, R, MATLAB, C++, C, C#, HTML, XML, XSLT, CSS, Perl, OCaml, PHP, and LaTeX.
- PyTorch, NumPy, React & Redux, Rails, Docker, Git, Subversion, ElasticSearch,
- Maven, Hadoop ecosystem, Spark, Storm, MongoDB, Neo4J, and MySQL.
- Deep learning esp. deep reinforcement learning, microservice architectural styles,
- reliable distributed computing and resilience engineering, REST, JSON-LD and
- linked data, Linux server administration and related technologies,
- Continuous Integration/Continuous Deployment, and Agile.
+ * Python, Wolfram Language & Mathematica, Go, Clojure, JavaScript, Scala,
+   Java, Ruby, R, MATLAB, C++, C, C#, HTML, XML, XSLT, CSS, Perl, OCaml, PHP,
+   and LaTeX.
+ * PyTorch, NumPy, React & Redux, Rails, Docker, Kubernetes, OpenShift, Git,
+   ElasticSearch, Maven, Hadoop ecosystem, Spark, Storm, MongoDB, Neo4J,
+   PostgreSQL and MySQL/MariaDB.
+ * Deep learning esp. deep reinforcement learning, microservice architectural
+   styles, reliable distributed computing and resilience engineering, REST,
+   linked data, Linux server administration and related technologies,
+   Continuous Integration/Continuous Deployment, and Agile.
 
 Experience
 * Decipher Technology Studios, Alexandria, VA
   01/2017 - present Director of Applied Sciences 
   05/2015 - 01/2017 Chief Technology Officer
     - Designed and built resilient applications and distributed systems for
-      enterprise and government customers in the microservice architectural style.
+      enterprise and government customers in the microservice architectural
+      style.
     - Provided technological oversight, direction, and counsel to Decipher
       from the leading edge of CS research to meet customer needs and achieve
       business objectives.
     - Cultivated unique and self-propagating company culture through personal
       investment, one-on-one mentoring, and events.
     - Selected, trained, empowered, and unleashed new members of Decipher.
+    - Ran regular Decipher journal club and CS bootcamp for years, along with
+      frequent brown-bag talks and occasional local outreach to high schools,
+      to spread applied computer science concepts.
 * CACI Int'l (acquired Six3 Systems Nov 2013), Sterling, VA
   02/2012 - 06/2015 Lead Software Engineer
     - Built prototype and production enterprise-scale software for government
@@ -88,3 +96,13 @@ Experience
       website of a startup meal-preparation business.
     - Worked closely with the owner at every stage of the process,
       including maintenance for some time after.
+
+
+Personal
+* Primary instigator and author of Computable.AI, a multi-author machine
+  intelligence research blog.
+* Study of artificial intelligence and decision theory for intelligence
+  augmentation.
+* Study of Bayesian probability theory with applications to debugging, games,
+  and day-to-day life.
+* Outreach writing and communication.
