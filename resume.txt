@@ -2,7 +2,7 @@ Daniel Cox
 danielpcox.info
 computable.ai
 danielpcox@gmail.com
-240-330-2111
+443-800-1220
 
 
 Summary
@@ -11,59 +11,49 @@ Summary
  research to practical objectives in artificial intelligence, intelligence
  augmentation, data-intensive software architecture, and human systems.
 
-Education
- Cornell University, Bachelors of Science Computer Science
- 08/2007 - 05/2011
- Cumulative GPA: 3.27
 
-Relevant Coursework
- Analysis of Algorithms, Operating Systems, Introduction to Analysis of
- Algorithms, Systems Programming, Introduction to Natural Language
- Processing, Introduction to Cognitive Science, Foundations of
- Artificial Intelligence, Practicum in AI, Introduction to Database
- Systems, Networks, Discrete Structures, Data Structures and Functional
- Programming, Introduction to Digital Logic Design, Object-Oriented
- Programming and Data Structures, Introduction to Computer Game Design,
- Information Systems and Analysis, Computational Methods for Management
- and Economics, Prove It (mathematical proof course).
-
-Languages, Technologies and Methodologies
- * Python, Wolfram Language & Mathematica, Go, Clojure, JavaScript, Scala,
-   Java, Ruby, R, MATLAB, C++, C, C#, HTML, XML, XSLT, CSS, Perl, OCaml, PHP,
-   and LaTeX.
- * PyTorch, NumPy, React & Redux, Rails, Docker, Kubernetes, OpenShift, Git,
-   ElasticSearch, Maven, Hadoop ecosystem, Spark, Storm, MongoDB, Neo4J,
-   PostgreSQL and MySQL/MariaDB.
+Select Languages, Technologies and Methodologies
+ * Python, Go, Wolfram Language & Mathematica, Lua, Clojure, JavaScript,
+   Scala, Java, Ruby, R, MATLAB, C++, C, C#, HTML, XML, XSLT, CSS, Perl, OCaml,
+   PHP, and LaTeX.
+ * PyTorch, Tensorflow, Pandas, NumPy, Docker, Kubernetes, React & Redux, Rails,
+   OpenShift, Git, ElasticSearch, Maven, Hadoop ecosystem, Spark, Storm, MongoDB,
+   Neo4J, PostgreSQL and MySQL/MariaDB.
  * Deep learning esp. deep reinforcement learning, microservice architectural
    styles, reliable distributed computing and resilience engineering, REST,
    linked data, Linux server administration and related technologies,
    Continuous Integration/Continuous Deployment, and Agile.
 
+
 Experience
-* Decipher Technology Studios, Alexandria, VA
-  01/2017 - present Director of Applied Sciences 
+* greymatter.io Inc (formerly Decipher Technology Studios), Alexandria, VA
+  02/2020 - present AI Technical Director
+  01/2017 - 02/2020 Director of Applied Sciences 
   05/2015 - 01/2017 Chief Technology Officer
-    - Designed and built resilient applications and distributed systems for
-      enterprise and government customers in the microservice architectural
-      style.
+    - Designed, prototyped, built, and deployed resilient applications and
+      distributed systems for enterprise and government customers in the
+      microservice architectural style.
+    - Designed, prototyped, built, and deployed AI-centric applications with both
+      conventional AI and neural networks, applying new research to real-world
+      applications.
     - Provided technological oversight, direction, and counsel to Decipher
       from the leading edge of CS research to meet customer needs and achieve
       business objectives.
     - Cultivated unique and self-propagating company culture through personal
       investment, one-on-one mentoring, and events.
     - Selected, trained, empowered, and unleashed new members of Decipher.
-    - Ran regular Decipher journal club and CS bootcamp for years, along with
+    - Ran regular Decipher Journal Club and CS Bootcamp for years, along with
       frequent brown-bag talks and occasional local outreach to high schools,
-      to spread applied computer science concepts.
+      to spread applied Computer Science concepts.
 * CACI Int'l (acquired Six3 Systems Nov 2013), Sterling, VA
   02/2012 - 06/2015 Lead Software Engineer
-    - Built prototype and production enterprise-scale software for government
+    - Built rapid-prototype and production enterprise-scale software for government
       customers
     - Worked with both proven and upcoming web-scale technologies and
       Agile methodologies such as Hadoop, MongoDB, Ruby on Rails, distributed
       computing, test-driven development, RESTful services and Scrum
-    - Gave frequent consultations and expositions on above technologies to
-      improve group performance
+    - Gave frequent consultations, expositions, and seminars on above technologies
+      to improve group performance
     - Occasionally worked on an emergency timetable to deliver quality software
       quickly after unexpected contingencies reduced manpower and added time-
       pressure to project requirements
@@ -97,11 +87,33 @@ Experience
       including maintenance for some time after.
 
 
+Education
+ Cornell University, Bachelors of Science Computer Science
+ 08/2007 - 05/2011
+ Cumulative GPA: 3.27
+
+
+Relevant Coursework
+ Analysis of Algorithms, Operating Systems, Introduction to Analysis of
+ Algorithms, Systems Programming, Introduction to Natural Language
+ Processing, Introduction to Cognitive Science, Foundations of
+ Artificial Intelligence, Practicum in AI, Introduction to Database
+ Systems, Networks, Discrete Structures, Data Structures and Functional
+ Programming, Introduction to Digital Logic Design, Object-Oriented
+ Programming and Data Structures, Introduction to Computer Game Design,
+ Information Systems and Analysis, Computational Methods for Management
+ and Economics, Prove It (mathematical proof course).
+
+
 Personal
-* Primary instigator and author of Computable.AI, a multi-author machine
-  intelligence research blog.
 * Study of artificial intelligence and decision theory for intelligence
-  augmentation.
+  augmentation
 * Study of Bayesian probability theory with applications to debugging, games,
-  and day-to-day life.
-* Outreach writing and communication.
+  and day-to-day life
+* Primary instigator and author of Computable.AI, a nascent multi-author
+  machine intelligence research blog
+* Outreach writing and communication
+* Journal Club
+* CS Bootcamp instruction
+* Miscellaneus projects in data analysis and modelling
+* Pixel art
