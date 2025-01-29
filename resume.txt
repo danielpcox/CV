@@ -4,30 +4,48 @@ computable.ai
 danielpcox@gmail.com
 443-800-1220
 
+AI is the most important development in human history.
+Let's make it an overwhelmingly positive one.
 
 Summary
- I am a mathematically- and scientifically-inclined polymath, an expert in
- distributed systems, and a people-person, successful at applying cutting edge
- research to practical objectives in artificial intelligence, intelligence
- augmentation, data-intensive software architecture, and human systems.
+ I am a mathematically- and scientifically-inclined software engineer, an expert
+ in distributed systems, and a people-person. I apply bleeding-edge research to
+ practical objectives in artificial intelligence, data-intensive software
+ architectures, and human systems... with PLUCK AND VERVE!
 
 
-Select Languages, Technologies and Methodologies
- * Python, Go, Wolfram Language & Mathematica, Lua, Clojure, JavaScript,
-   Scala, Java, Ruby, R, MATLAB, C++, C, C#, HTML, XML, XSLT, CSS, Perl, OCaml,
+Select Languages, Technologies, and Methodologies
+ * Python, Go, C++, Lua, Wolfram Language & Mathematica, Clojure, JavaScript,
+   Scala, Java, Ruby, R, MATLAB, C, C#, HTML, XML, XSLT, CSS, Perl, OCaml,
    PHP, and LaTeX.
- * PyTorch, Tensorflow, Pandas, NumPy, Docker, Kubernetes, React & Redux, Rails,
-   OpenShift, Git, ElasticSearch, Maven, Hadoop ecosystem, Spark, Storm, MongoDB,
-   Neo4J, PostgreSQL and MySQL/MariaDB.
- * Deep learning esp. deep reinforcement learning, microservice architectural
-   styles, reliable distributed computing and resilience engineering, REST,
-   linked data, Linux server administration and related technologies,
-   Continuous Integration/Continuous Deployment, and Agile.
+ * JAX, PyTorch, Tensorflow, Pandas, Arrow, NumPy, Ray, Lightning, fast.ai,
+   Docker, Kubernetes, OpenShift, Git, ElasticSearch, Hadoop ecosystem, Spark,
+   Storm, MongoDB, Neo4J, PostgreSQL and MySQL/MariaDB. Also much Google
+   technology, esp. in Google Cloud, and internal SDLC.
+ * Deep learning esp. deep reinforcement learning (PPO, SAC), Transformers,
+   microservice architectural styles, service meshes, reliable distributed
+   computing and resilience engineering, REST, linked data, Linux server
+   administration, Continuous Integration/Continuous Deployment, and Agile.
+   Actively spinning up on mechanistic interpretability of Transformer models.
 
 
 Experience
+* Google Public Sector, Reston VA
+  07/2023 - present Staff Software Engineer (L6)
+    - Tech Lead on Sovereign Mission Solutions team, designed and built several
+      reusable systems for rapidly growing GPS orgs and sovereign customers.
+    - Built practical early RAG systems on Google Distributed Cloud (GDC) and
+      other end-to-end AI solutions. 
+    - First to bring Gemini model to two GDC form factors.
+    - Assigned as Fixer and Lead on several technical, customer-facing projects
+      that would otherwise have failed.
+    - Frequent technical talks to grow Technical Strategy and Delivery, and
+      Sovereign Operations org.
+    - GPS Values Impact Award "Grow Together" 09/2024
+    - 20% projects involving mechanistic interpretability of Transformers,
+      esp. sparse autoencoders (SAEs) and Transformer observability.
 * greymatter.io Inc (formerly Decipher Technology Studios), Alexandria, VA
-  02/2020 - present AI Technical Director
+  02/2020 - 07/2023 AI Technical Director & ML Engineer
   01/2017 - 02/2020 Director of Applied Sciences 
   05/2015 - 01/2017 Chief Technology Officer
     - Designed, prototyped, built, and deployed resilient applications and
@@ -79,12 +97,6 @@ Experience
       technologies.
       - Evaluated new technologies (such as Ruby on Rails) for potential
       future migration, reported findings to management.
-* What’s For Dinner LLC, Poulsbo, WA
-  06-09/2006 Web Application Programmer,
-    - Contracted alone for four months to design and build the ecommerce
-      website of a startup meal-preparation business.
-    - Worked closely with the owner at every stage of the process,
-      including maintenance for some time after.
 
 
 Education
@@ -93,27 +105,12 @@ Education
  Cumulative GPA: 3.27
 
 
-Relevant Coursework
- Analysis of Algorithms, Operating Systems, Introduction to Analysis of
- Algorithms, Systems Programming, Introduction to Natural Language
- Processing, Introduction to Cognitive Science, Foundations of
- Artificial Intelligence, Practicum in AI, Introduction to Database
- Systems, Networks, Discrete Structures, Data Structures and Functional
- Programming, Introduction to Digital Logic Design, Object-Oriented
- Programming and Data Structures, Introduction to Computer Game Design,
- Information Systems and Analysis, Computational Methods for Management
- and Economics, Prove It (mathematical proof course).
-
-
 Personal
-* Study of artificial intelligence and decision theory for intelligence
-  augmentation
-* Study of Bayesian probability theory with applications to debugging, games,
-  and day-to-day life
-* Primary instigator and author of Computable.AI, a nascent multi-author
-  machine intelligence research blog
-* Outreach writing and communication
-* Journal Club
-* CS Bootcamp instruction
-* Miscellaneus projects in data analysis and modelling
+* Live Poker, poker simulation, and optimization
+* Study of Bayesian probability & decision theory with applications to
+  intelligence augmentation debugging, games, and day-to-day life
+* Technical blogging (e.g. Computable.AI) and outreach writing, talks, and
+  courses (Journal Club instigator, CS Bootcamp instigator, Lunch and Learn talks)
+* Miscellaneus projects in data analysis and modeling
 * Pixel art
+* Fiction
